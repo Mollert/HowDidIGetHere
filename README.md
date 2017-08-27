@@ -1,2 +1,1 @@
-# HowDidIGetHere
-Glimpse of how I got to this point in my career
+A glimpse of how I got to this point in my career
