@@ -52,20 +52,22 @@ body {
   margin-left: 2em;
 }
 
-.first-button {
-  float: right;
-  margin-left: -50%;
-  margin-right: 2em;
-  margin-top: 3em;
-}
-
-.btn-xl {
-  padding: 18px 28px;
-  font-size: 26px;
-  border-radius: 10px;
-}
 .contact h3 {
   color: #B22222;
   text-align: left;
   margin-left: 10em;
 }
+
+.first-button {
+  float: right;
+  margin-left: -50%;
+  margin-right: 2em;
+  margin-bottom: 3em;
+}
+
+.btn-xl {
+  padding: 18px 28px;
+  font-size: 24px;
+  border-radius: 10px;
+}
+
